@@ -7,6 +7,12 @@
     "verification": "https://medal.tv/games/geometry-dash/clips/mytYKnfcO5WBlNp6r?invite=cr-MSw5ZG4sMzY5MjUzOTQw",
     "percentToQualify": "100",
     "password": "Free To Copy",
-    "records": [
+    "records": [  
+                    {
+            "user": "Xurido",
+            "link": "https://medal.tv/games/geometry-dash/clips/mEF2M7J9ZiT5isLyD?invite=cr-MSxmOG0sMjA2MjExMTMw",
+            "percent": 100,
+            "hz": 240
+      }
     ]
 }
